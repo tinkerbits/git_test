@@ -1,1 +1,3 @@
 This is a text file. It is so simple yet so powerful.
+
+It was made in VSCode which is about the only good software Microsoft ever made.
